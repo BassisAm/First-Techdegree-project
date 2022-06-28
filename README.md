@@ -1,1 +1,2 @@
-# Techdegree front-end portfolio
+# Techdegree front-end first project
+
