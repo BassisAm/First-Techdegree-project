@@ -12,7 +12,6 @@ body {
   background: #f7f5f0;
 }
 /* Link Styles */
-
 a {
   text-decoration: none;
   color: #999;
@@ -21,6 +20,14 @@ a:hover {
   color: #6633ff;
 }
 
+/*Text Styles*/
+
+.Experience {
+  color:white;
+  font-size:75px;
+  margin: 125px;
+
+}
 /* Section Styles */
 
 .main-nav {
@@ -57,7 +64,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/new_background.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -150,12 +157,6 @@ a.social {
   background-size: 30px 30px;
   opacity: .4;
   transition: all .5s;
-}
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
 }
 a.github {
   background-image: url(images/github.svg);
